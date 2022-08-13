@@ -1,0 +1,201 @@
+
+*{
+    margin: 0px;
+    background-color: rgb(253, 252, 253);
+}
+.logo{
+    background-color: rgb(253, 252, 253);
+    height: 70px;
+    box-shadow: 0px 3px 5px rgb(121, 107, 107);
+}
+.logo a{
+    float: left;
+}
+.menu{
+    float: left;
+}
+.menu a{
+    margin-left: 100px;
+    line-height: 60px;
+    text-decoration: none; 
+    font-size: 30px; 
+    color: rgb(0, 0, 0);
+}
+.menu a:hover{
+    color:rgb(255, 124, 2);
+}
+.container {
+    position: relative;
+    text-align: center;
+    margin-top: 1%;
+}
+.text{
+    position: absolute;
+    top: 35%;
+    left: 18%;
+    font-size: 80px;
+    background-color: rgb(194, 180, 157);
+}
+.form{
+    height: 96px;
+}
+.text1{
+    position: absolute;
+    top: 55%;
+    left: 30%;
+}
+input[type="search"]{
+    font-size: 40px;
+}
+button{
+    font-size: 40px;
+    background-color:rgb(253, 4, 4);
+}
+button:hover{
+    color: rgb(255, 255, 255);
+}
+.offers img{
+    margin-top:3%;
+    margin-left: 9%;
+    border-radius: 50%;
+}
+.offers img:hover{
+    box-shadow: 0 5px 5px 5px black;
+}
+
+.names a{
+    background-color: yellow;
+    color:red;
+    border-radius: 40px;
+    margin-left: 11%;
+    text-decoration: none;
+    font-size: 30px;
+}
+.middle img{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 35%;
+    border-radius: 8px;
+}
+.middle img:hover{
+    box-shadow: 0px 4px 4px 4px black;
+}
+.loved{
+    position: absolute;
+    top: 155%;
+    left: 18%;
+    font-size: 35px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(9, 129, 123);
+}
+.new button{
+    position: absolute;
+    top: 163%;
+    left: 20%;
+    color: white;
+    background-color: rgb(255, 5, 142);
+    font-size: 20px;
+    border-radius: 10px;
+}
+.new button:hover{
+    color: rgb(255, 5, 142);
+    background-color: white;
+}
+.fresh{
+    position: absolute;
+    top: 155%;
+    left: 62%;
+    font-size: 35px;
+    background-color: white;
+    color: rgb(9, 129, 123);
+}
+.shop button{
+    position: absolute;
+    top: 163%;
+    left: 66%;
+    color: white;
+    background-color: rgb(255, 5, 142);
+    font-size: 20px;
+    border-radius: 10px;
+}
+.shop button:hover{
+    color: rgb(255, 5, 142);
+    background-color: white;
+}
+.gifts img{
+    position: absolute;
+    top: 195%;
+    border-radius: 8px;
+    margin-left: 10%;
+}
+.gifts img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.gif h1{
+    margin-left: 62%;
+    margin-top: 8%;
+    color: rgb(9, 129, 123) ;
+}
+.gifts p{
+    margin-top: 1%;
+    margin-left: 52%;
+    font-family:cursive;
+}
+.activity img{
+    position: absolute;
+    top: 270%;
+    border-radius: 8px;
+    margin-left:60%;
+    width: 35%; 
+}
+.activity img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.act h1{
+    margin-left: 22%;
+    margin-top: 30%;
+    color: rgb(9, 129, 123) ;
+}
+.activity p{
+    margin-top: 1%;
+    margin-left: 12%;
+    font-family:cursive;
+}
+.anime img{
+    position: absolute;
+    top: 340%;
+    border-radius: 8px;
+    margin-left: 10%;
+    width: 32%;
+}
+.anime img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.ani h1{
+    margin-left: 62%;
+    margin-top: 28%;
+    color: rgb(9, 129, 123) ;
+}
+.anime p{
+    margin-top: 1%;
+    margin-left: 52%;
+    font-family:cursive;
+}
+.footer h1{
+    background-color: blanchedalmond;
+}
+.footer h1{
+    text-align: center;
+    font-family: monospace;
+    margin-top: 20%;
+}
+.footer a{
+    font-size: 60px;
+    
+    color:blue;
+}
+.footer p{
+    text-align: center;
+    margin-top: 1%;
+}
