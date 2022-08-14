@@ -24,19 +24,148 @@
 .menu a:hover{
     color:rgb(255, 124, 2);
 }
+.brands{
+    margin-top: 1%;
+}
+.bname{
+    position: absolute;
+    margin-left: 40%;
+    top: 68%;
+    font-size: 70px;
+    background-color: bisque;
+    box-shadow: 0px 3px 5px rgb(10, 98, 156);
+}
+.brandsdiscription{
+    position: absolute;
+    top: 79%;
+    margin-left: 28%;
+    font-family: cursive;
+    background-color: bisque;
+    box-shadow: 0px 3px 5px rgb(10, 98, 156);
+}
 
+.creativity img{
+    position: absolute;
+    top: 105%;
+    border-radius: 8px;
+    margin-left: 8%;
+    width: 40%;
+}
+.creativity img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.creative h1{
+    margin-left: 64%;
+    margin-top: 10%;
+    color: rgb(9, 129, 123) ;
+}
+.creativity p{
+    margin-top: 1%;
+    margin-left: 55%;
+    font-family:cursive;
+} 
+.creativity h3 a{
+    margin-left: 55%;
+    font-size:25px;
+}
+.decorating img{
+    position: absolute;
+    top: 190%;
+    border-radius: 8px;
+    margin-left:60%;
+    width: 35%; 
+}
+.decorating img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.decorate h1{
+    margin-left: 18%;
+    margin-top: 35%;
+    color: rgb(9, 129, 123) ;
+}
+.decorating p{
+    margin-top: 1%;
+    margin-left: 12%;
+    font-family:cursive;
+}
+.decorating button{
+    margin-top: 5%;
+    margin-left: 28%;
+    background-color: rgb(255, 0, 0);
+    font-size: 110%;
+    color: white;
+    border-radius: 8px;
+    border-color: red;
+}
+.decorating button:hover{
+    color: red;
+    background-color: white;
+}
 
+.products img{
+    position: absolute;
+    top: 285%;
+    border-radius: 8px;
+    margin-left: 10%;
+    width: 38%;
+}
+.products img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.pro h1{
+    margin-left: 62%;
+    margin-top: 25%;
+    color: rgb(9, 129, 123) ;
+}
+.products p{
+    margin-top: 1%;
+    margin-left: 52%;
+    font-family:cursive;
+} 
+.products button{
+    margin-top: 5%;
+    margin-left: 65%;
+    background-color: rgb(255, 0, 0);
+    font-size: 110%;
+    color: white;
+    border-radius: 8px;
+    border-color: red;
+}
+.products button:hover{
+    color: red;
+    background-color: white;
+}
+.community{
+    text-align: center;
+    margin-top: 10%;
+    font-family: cursive;
+}
+.profile img{
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.profile img:hover{
+    box-shadow: 0px 4px 4px 4px;
+}
+.more {
+    font-size: 30px;
+    margin-top: 2%;
+    margin-left: 80%;
+}
+.more a:hover{
+    color: red;
+}
 .footer h1{
     background-color: blanchedalmond;
 }
 .footer h1{
     text-align: center;
     font-family: monospace;
-    margin-top: 20%;
+    margin-top: 6%;
 }
 .footer a{
     font-size: 60px;
-    
     color:blue;
 }
 .footer p{
