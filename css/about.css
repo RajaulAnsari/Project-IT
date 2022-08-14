@@ -1,0 +1,45 @@
+
+*{
+    margin: 0px;
+    background-color: rgb(253, 252, 253);
+}
+.logo{
+    background-color: rgb(253, 252, 253);
+    height: 70px;
+    box-shadow: 0px 3px 5px rgb(121, 107, 107);
+}
+.logo a{
+    float: left;
+}
+.menu{
+    float: left;
+}
+.menu a{
+    margin-left: 100px;
+    line-height: 60px;
+    text-decoration: none; 
+    font-size: 30px; 
+    color: rgb(0, 0, 0);
+}
+.menu a:hover{
+    color:rgb(255, 124, 2);
+}
+
+
+.footer h1{
+    background-color: blanchedalmond;
+}
+.footer h1{
+    text-align: center;
+    font-family: monospace;
+    margin-top: 20%;
+}
+.footer a{
+    font-size: 60px;
+    
+    color:blue;
+}
+.footer p{
+    text-align: center;
+    margin-top: 1%;
+}
