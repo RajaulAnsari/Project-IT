@@ -64,8 +64,6 @@
     float: left;
     width: 24.99999%;
   }
-  
-
   .chefs {
     border: 1px solid #ccc;
   }
@@ -95,13 +93,42 @@
     float: left;
     width: 24.99999%;
   }
+  .employee {
+    border: 1px solid #ccc;
+  }
+  
+.employee:hover {
+    border: 1px solid #777;
+  }
+  
+.employee img {
+    width: 100%;
+    height: auto;
+  }
+
+.ename  {
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .ours {
+    margin-top: 5%;
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
 .footer h1{
     background-color: blanchedalmond;
 }
 .footer h1{
     text-align: center;
     font-family: monospace;
-    margin-top: 20%;
+    margin-top: 50%;
 }
 .footer a{
     font-size: 35px;
