@@ -24,7 +24,77 @@
 .menu a:hover{
     color:rgb(255, 124, 2);
 }
+.ceo{
+    margin-left: 34%;
+    width: 36.5%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-top: 2%;
+}
+.nceo{
+    text-align: center;
+    padding: 10px 20px;
+}
+.holder {
+    border: 1px solid #ccc;
+  }
+  
+.holder:hover {
+    border: 1px solid #777;
+  }
+  
+.holder img {
+    width: 100%;
+    height: auto;
+  }
 
+.name  {
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .share {
+    margin-top: 5%;
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
+  
+
+  .chefs {
+    border: 1px solid #ccc;
+  }
+  
+.chefs:hover {
+    border: 1px solid #777;
+  }
+  
+.chefs img {
+    width: 100%;
+    height: auto;
+  }
+
+.cname  {
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .our {
+    margin-top: 5%;
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
 .footer h1{
     background-color: blanchedalmond;
 }
