@@ -24,6 +24,24 @@
 .menu a:hover{
     color:rgb(255, 124, 2);
 }
+.header{
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(9, 129, 123);
+    font-size: 30px;
+    font-family: cursive;
+}
+.A ,.B{
+    margin-left: 5%;
+    font-size: 40px;
+    text-decoration: none;
+    line-height: 200%;
+    color: rgb(105, 92, 92);
+}
+.A a,.B a{
+    text-decoration:none;
+    color: rgb(255, 0, 0);
+}
 
 .footer h1{
     background-color: blanchedalmond;
@@ -31,7 +49,7 @@
 .footer h1{
     text-align: center;
     font-family: monospace;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 .footer a{
     font-size: 35px;

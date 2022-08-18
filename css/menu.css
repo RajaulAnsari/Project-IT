@@ -25,6 +25,19 @@
     color:rgb(255, 124, 2);
 }
 
+.men{
+    margin-top: 1%;
+}
+.mname{
+    position: absolute;
+    margin-left: 40%;
+    top: 68%;
+    font-size: 70px;
+    background-color: bisque;
+    box-shadow: 0px 3px 5px rgb(10, 98, 156);
+}
+
+
 .footer h1{
     background-color: blanchedalmond;
 }
